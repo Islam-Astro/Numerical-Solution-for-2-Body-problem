@@ -10,8 +10,7 @@ This project numerically solves the **two-body problem** using **Euler's method*
 ## Key Features
 ✅ **C++ Implementation** – Efficient numerical integration of Newtonian gravity equations.  
 ✅ **CSV Output** – Saves computed trajectories for easy visualization.  
-✅ **Mathematica Plots** – Compares the divergence of Euler vs. RK2 solutions.  
-✅ **Analysis of Numerical Errors** – Demonstrates how integration accuracy affects stability.  
+✅ **Mathematica Plots** – Compares the divergence of Euler vs. RK2 solutions.   
 
 ## Results & Observations
 ![Euler vs RK2](https://github.com/user-attachments/assets/aea45817-0546-4b4e-b8b2-276dc497a795)
