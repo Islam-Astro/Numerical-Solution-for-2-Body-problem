@@ -13,7 +13,7 @@ This project numerically solves the **two-body problem** using **Euler's method*
 ✅ **Mathematica Plots** – Compares the divergence of Euler vs. RK2 solutions.   
 
 ## Results & Observations
-**Euler's method** exhibits significant numerical errors, causing artificial orbital drift.
-**RK2 (Midpoint method)** provides a more stable and accurate trajectory, better preserving orbital shape.
+1. **Euler's method** exhibits significant numerical errors, causing artificial orbital drift.
+2. **RK2 (Midpoint method)** provides a more stable and accurate trajectory, better preserving orbital shape.
 
 ![Euler vs RK2](https://github.com/user-attachments/assets/aea45817-0546-4b4e-b8b2-276dc497a795)
